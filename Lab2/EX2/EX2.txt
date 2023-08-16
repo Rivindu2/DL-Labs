@@ -1,0 +1,6 @@
+DL LAB2:IT20028732
+
+EX2:
+Q1: When I increased the hidden nodes value from 4 to 8 the accuracy increased by 1% also the costs after iteration decreased.
+
+Q2: Accuracy Increases when the number of hidden layers increase, because increasing hidden layers can help with complex patterns.
